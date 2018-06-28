@@ -1,0 +1,246 @@
+
+ main a {
+
+ 	font-family: 'Open Sans';
+ 	text-decoration: none;
+ }
+
+ body {
+
+ 	background: #ADD8E6;
+ 	font-family: 'Open Sans';
+ 	font-size: 14px;
+ 	text-decoration: none;
+
+
+
+ }
+ h1 {
+
+ 	text-align: center;
+ 	background: #4682B4;
+ 	color: white;
+ 	text-decoration: none;
+ 	list-style: none;
+ 	padding: 15px;
+
+
+ }
+
+
+ header {
+
+ 	background: white;
+
+
+ }
+
+
+ .center {
+
+	width: 800px;
+	height: auto;
+	margin: 0 auto;
+	text-align: right;
+	padding: 0px;
+
+	
+}
+
+.logo {
+
+	display: block;
+	width: 396px;
+	height: 110px;
+	background: url("../img/logo.jpg");
+}
+.agenda {
+
+	text-align: right;
+	width: 900px;
+	padding: 0px;
+	height: 100px;
+	margin: 10px;
+
+
+}
+	nav {
+
+		background: #00BFFF;
+
+
+	}
+
+	nav ul {
+
+		text-decoration: none;
+		list-style: none;
+
+	}
+
+	nav ul li {
+		display: inline;
+
+	}
+
+	nav ul li a {
+
+		margin: 13px;
+		padding: 4px 10px;
+		text-decoration: none;
+		display: inline-block;
+		color: white;
+
+	}
+
+	nav ul li a:hover{
+
+		color: #ADD8E6;
+	}
+
+.menu {
+
+	text-align: center;
+
+}
+
+.fotoprincipal{
+	text-align: center;
+	background: #f1f1f1f1;
+
+}
+
+.especialidades {
+ 	background:  #20B2AA;
+ 	color: white;
+ 	text-align: center;
+
+
+	}
+.especialidades div{
+	display: inline-block;
+	width: 200px;
+	height: 140px;
+	margin: 5em;
+	text-align: center;
+}	
+.cardio{
+	background: url("../img/cardio.jpg");
+	display: block;
+	width: 77px;
+	height: 69px;
+	float: left;
+
+}
+
+.derma{
+	background: url("../img/dermato.jpg");
+	display: block;
+	width: 85px;
+	height: 81px;
+	float: left;
+
+}
+.pedia{
+	background: url("../img/pedia.jpg");
+	display: block;
+	width: 73px;
+	height: 74px;
+	float: left
+}
+
+.neuro{
+	background: url("../img/neuro.jpg");
+	display: block;
+	width: 84px;
+	height: 85px;
+	float: left;
+}
+
+.clinica {
+	background: url("../img/clinica.jpg");
+	display: block;
+	width: 81px;
+	height: 101px;
+	float: left;
+
+}
+
+.oftal{
+	background: url("../img/oftal.jpg");
+	display: block;
+	width: 79px;
+	height: 67px;
+	float: left;
+}
+
+
+
+.tratamentos {
+ 	background: white;
+ 	color: #4682B4;
+ 	text-align: center;
+
+ 	}
+.fisio{
+	background: url("../img/fisio.jpg");
+	display: block;
+	width: 153px;
+	height: 133px;
+	margin-left: 19px;
+}
+.infantil{
+	background: url("../img/infantil.jpg");
+	display: block;
+	width: 132px;	 
+	height: 126px;
+	margin-left: 25px;
+
+}
+
+.nutri{
+	background:url("../img/nutri.jpg");
+	display: block;
+	width: 125px;
+	height: 124px;
+	margin-left: 35px;
+
+
+}
+
+
+ .tratamentos div{
+ 	display: inline-block;
+ 	width: 200px;
+ 	height: 150px;
+ 	margin: 5em;
+ 	text-align: center;
+ }
+
+
+footer {
+	background: #20B2AA;
+	color: white;
+
+}
+
+.footer div{
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	margin: 3em;
+	text-align: center;
+	padding: 10px;
+}
+.lgfooter{
+	background:url("../img/logofooter.jpg");
+	display: block;
+	width: 222px;
+	height: 78px;
+}
+
+.copy{
+	text-align: center;
+	background: #008B8B;
+}
+
